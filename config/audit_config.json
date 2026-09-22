@@ -1,0 +1,15 @@
+{
+    "round_dollar_base": 1000,
+    "high_value_threshold": 5000,
+    
+    "risk_weights": {
+        "weekend_posting": 1,
+        "round_dollar": 1,
+        "high_value": 2,
+        "potential_duplicate": 3
+    },
+    "risk_levels": {
+        "medium": 1,
+        "high": 3
+    }
+}
